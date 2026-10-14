@@ -1,16 +1,28 @@
-## Hi there 👋
+# Brian Borges Santos Silva
 
-<!--
-**Br1anBorges/Br1anBorges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Formação Atual
+Estudante de **Ciência da Computação** na UNIP.
 
-Here are some ideas to get you started:
+## 💻 Apresentação
+Atuo profissionalmente como Estagiário em NOC na Solvesystem. Desenvolvedor com foco em back-end, infraestrutura e sistemas embarcados/IoT, unindo conhecimentos práticos de redes, containerização e desenvolvimento de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Áreas de Interesse
+* Engenharia de Software e Arquitetura de Back-end
+* Redes de Computadores e Monitoramento de Infraestrutura (NOC)
+* Internet das Coisas (IoT) e Sistemas Embarcados
+* Ciência de Dados e Inteligência Artificial Aplicada
+
+## 🛠️ Tecnologias, Linguagens e Ferramentas
+* **Redes e Infraestrutura:** Monitoramento de redes e infraestrutura, Linux (Ubuntu)
+* **Linguagens:** Python, TypeScript, JavaScript, C/C++
+* **Back-end e Web:** Node.js, APIs RESTful, Webhooks, React
+* **Banco de Dados:** PostgreSQL, Supabase, modelagem DDL
+* **Ferramentas e DevOps:** Docker, Docker Compose, Git, GitHub, Rufus
+
+## 📦 Projetos Relevantes
+* **EarthSense:** Plataforma IoT para monitoramento agrícola desenvolvida como projeto de conclusão. Realiza coleta de dados via ESP32, envio para backend em TypeScript, persistência e visualização em dashboard.
+* **APIPedidos:** API REST desenvolvida em Python e containerizada com Docker e Docker Compose, utilizando banco de dados PostgreSQL.
+
+## 📞 Contato Profissional
+* LinkedIn www.linkedin.com/in/brian-borges-3b1031205
+* E-mail: contatobrianborges@gmail.com
