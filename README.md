@@ -24,5 +24,5 @@ Atuo profissionalmente como Estagiário em NOC na Solvesystem. Desenvolvedor com
 * **APIPedidos:** API REST desenvolvida em Python e containerizada com Docker e Docker Compose, utilizando banco de dados PostgreSQL.
 
 ## 📞 Contato Profissional
-* LinkedIn www.linkedin.com/in/brian-borges-3b1031205
+* LinkedIn www.linkedin.com/in/br1anborges
 * E-mail: contatobrianborges@gmail.com
